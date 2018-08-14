@@ -32,7 +32,7 @@ manual commands instead:
 
  * installation of the dependencies
    ```
-   sudo apt install -y gcc make libhidapi-dev
+   sudo apt install -y gcc make libhidapi-dev g++
    ```
 
  * compiling of MSIKLM
